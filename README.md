@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="Images/pcb_3d_front.png" width="650">
-</p>
+</p> 
 
 ## 📌 Project Overview
 
